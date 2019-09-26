@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./stubs/esp32_1_10_0",
+        "./stubs/esp8266_v1_11"
+    ]
+}
